@@ -1,0 +1,2 @@
+# footer-widget
+デザインカンプからのコーディング／フッターにTwitterとFacebook貼り付け
